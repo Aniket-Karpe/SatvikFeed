@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SativikFeed</string>
+    <string name="Textview1">Contacts</string>
+    <string name="TextView2">SubDetails Of the Contact</string>
 </resources>
